@@ -1,0 +1,15 @@
+{
+  "name": "day_3-3",
+  "version": "1.0.0",
+  "description": "Week 3 Day 3",
+  "main": "constructors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.2"
+  }
+}
